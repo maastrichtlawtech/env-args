@@ -1,2 +1,2 @@
-# environmental-args-belgian-law
+# EnvArgs - analyzing the prevalence of environmental arguments in belgian case law
  
