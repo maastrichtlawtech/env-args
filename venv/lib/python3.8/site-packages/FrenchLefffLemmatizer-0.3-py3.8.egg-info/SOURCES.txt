@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+FrenchLefffLemmatizer.egg-info/PKG-INFO
+FrenchLefffLemmatizer.egg-info/SOURCES.txt
+FrenchLefffLemmatizer.egg-info/dependency_links.txt
+FrenchLefffLemmatizer.egg-info/not-zip-safe
+FrenchLefffLemmatizer.egg-info/top_level.txt
+french_lefff_lemmatizer/__init__.py
+french_lefff_lemmatizer/create_additional_lefff_data_file.py
+french_lefff_lemmatizer/french_lefff_lemmatizer.py

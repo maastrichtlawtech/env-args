@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: FrenchLefffLemmatizer
+Version: 0.3
+Summary: French Lemmatizer based on LEFFF a large-scale morphological and syntactic lexicon for French
+Home-page: https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer
+Author: Claude Coulombe
+Author-email: claude.coulombe@gmail.com
+License: Apache 2
+Description: UNKNOWN
+Keywords: french lefff lemmatizer lexicon
+Platform: UNKNOWN
