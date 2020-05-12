@@ -176,13 +176,6 @@ for index, topic_index in enumerate(topics):
         #chromeBrowser.close()
     chromeBrowser.close()
 
-# In[48]:
-
-
-
-
-
-# In[ ]:
 
 
 
