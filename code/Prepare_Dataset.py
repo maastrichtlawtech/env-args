@@ -558,3 +558,5 @@ print('full case termdoc matrices saved')
 
 
 
+create_lemmatized_datasets(case_topic_env_full, case_topic_non_env_full)
+create_no_stopwords_datasets(case_topic_env_full, case_topic_non_env_full)
